@@ -1,0 +1,25 @@
+{
+  "name": "casual-time",
+  "version": "1.0.0",
+  "description": "Simple package to convert date and datetime strings to friendly causual time representations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sesamechicken/casual-time.git"
+  },
+  "keywords": [
+    "time",
+    "casual",
+    "date",
+    "datetime"
+  ],
+  "author": "sesame chicken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sesamechicken/casual-time/issues"
+  },
+  "homepage": "https://github.com/sesamechicken/casual-time#readme"
+}
