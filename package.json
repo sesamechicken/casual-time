@@ -4,8 +4,12 @@
   "description": "Simple package to convert date and datetime strings to friendly causual time representations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+      "build": "babel src -d lib"
+    },
+    "devDependencies": {
+      "babel-cli": "^6.0.0",
+      "babel-preset-env": "latest"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sesamechicken/casual-time.git"
