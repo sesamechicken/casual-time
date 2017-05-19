@@ -1,6 +1,6 @@
 {
   "name": "casual-time",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple package to convert date and datetime strings to friendly causual time representations",
   "main": "index.js",
   "scripts": {
